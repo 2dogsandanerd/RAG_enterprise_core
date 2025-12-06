@@ -268,17 +268,6 @@ All 17 enterprise features implemented and tested.
 
 ---
 
-## 🎓 Documentation
-
-- [Architecture Overview](docs/architecture.md)
-- [Security & RBAC](docs/security.md)
-- [Semantic Cache](docs/features/semantic_cache.md)
-- [Query Decomposition](docs/features/query_decomposition.md)
-- [Backup & Recovery](docs/operations/recovery.md)
-- [Troubleshooting](docs/runbooks/troubleshooting.md)
-
----
-
 ## 💡 Lessons Learned
 
 **1. Observability is 50% of the work**
