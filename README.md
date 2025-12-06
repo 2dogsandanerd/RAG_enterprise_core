@@ -83,7 +83,7 @@ This system:  Graph (Neo4j) + Vector (ChromaDB) + RRF fusion
 **Scalability:**
 - Tested with concurrent users on consumer-grade hardware
 - Horizontal scaling via standard microservice patterns
-> **Note:** Detailed benchmarks available upon request for qualified partners.
+> **Note:** Benchmarks and a live demo video are coming soon!
 
 ---
 
@@ -303,16 +303,8 @@ All 17 enterprise features implemented and tested.
 
 ---
 
-## 📄 License
-
-MIT License - see [LICENSE](LICENSE) for details.
-
----
-
 ## 🙏 Built With
 
 LangChain, LangGraph, ChromaDB, Neo4j, Docling, Sentence Transformers, FastAPI, Sentry, Grafana, Jaeger, Redis, Ollama
 
 ---
-
-**Not open-sourcing this (yet?)** - evaluating commercial options. Happy to answer questions!
