@@ -111,6 +111,8 @@ This system:  Graph (Neo4j) + Vector (ChromaDB) + RRF fusion
 
 ---
 
+![Pre-Flight Triage Architecture](triage_diagram.png)
+
 ## ✅ Complete Feature List
 
 ### 🔒 **Security**
