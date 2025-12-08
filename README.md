@@ -6,7 +6,7 @@
 [![Docker](https://img.shields.io/badge/docker-ready-brightgreen.svg)](https://www.docker.com/)
 [![License: Commercial](https://img.shields.io/badge/License-Commercial-blue.svg)]
 
-> **Built over 6 months** to solve real production problems: security, observability, performance, and intelligence.
+
 
 ---
 
@@ -98,8 +98,8 @@ This system:  Graph (Neo4j) + Vector (ChromaDB) + RRF fusion
        ├──────────────────┬─────────────┬──────────────┐
        │                  │             │              │
 ┌──────▼──────┐   ┌───────▼──────┐  ┌───▼────┐   ┌─────▼───────────┐
-│  Knowledge  │   │    Graph     │  │ Ingest │   │  Observability──│
-│  (ChromaDB) │   │   (Neo4j)    │  │        │   │  (Sentry/Jaeger)│
+│  Knowledge  │   │    Graph     │  │ Ingest │   │ Observability   │
+│  (ChromaDB) │   │   (Neo4j)    │  │        │   │ (Sentry/Jaeger) │
 └─────────────┘   └──────────────┘  └────────┘   └─────────────────┘
 ```
 
@@ -292,6 +292,23 @@ All 17 enterprise features implemented and tested.
 **5. Query decomposition makes the system feel intelligent**
 - Handles complex questions correctly
 - Users notice the difference
+---
+
+---
+## 📄 License & Commercial Status
+
+**© 2025 2dogsandanerd - All Rights Reserved.**
+
+This repository contains the architectural documentation and technical specifications of the **RAG Enterprise Core V2**.
+
+The source code, container images, and the implementation of the "Ingestion Triage Engine" are **Proprietary Software** and constitute intellectual property. They are **not** Open Source.
+
+### Access & Licensing
+*   **Evaluation:** Access to the source code or binary artifacts is granted solely for evaluation purposes upon request.
+*   **Commercial Use:** Any production use, integration, or modification requires a valid commercial license agreement.
+
+**Interested in a Pilot or License?**
+Please contact **2dogsandanerd@gmail.com** to discuss enterprise licensing models or strategic integration partnerships.
 
 ---
 
