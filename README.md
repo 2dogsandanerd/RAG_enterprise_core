@@ -73,21 +73,6 @@ This system:  Graph (Neo4j) + Vector (ChromaDB) + RRF fusion
 
 ---
 
-
-## 📊 Performance Characteristics
-**Semantic Cache:**
-- Cache hit latency: Sub-100ms (vs. full RAG pipeline)
-- Reduces redundant LLM calls by 60-80% in production workloads
-**Ingestion Quality:**
-- Docling preserves table structure with high fidelity
-- Vision fallback handles scanned documents that fail standard OCR
-**Scalability:**
-- Tested with concurrent users on consumer-grade hardware
-- Horizontal scaling via standard microservice patterns
-> **Note:** Benchmarks and a live demo video are coming soon!
-
----
-
 ## 🏗️ Architecture
 
 ```
