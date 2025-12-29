@@ -1,6 +1,6 @@
 # Commercial License
 
-Copyright (c) 2024 [Dein Name oder Firmenname]
+Copyright (c) 2025 2 Dogs and a Nerd
 
 All Rights Reserved.
 
@@ -8,4 +8,4 @@ The source code contained in this repository is proprietary and confidential. It
 
 Unauthorized copying, distribution, or use of this software is strictly prohibited.
 
-For licensing inquiries, please contact [deine E-Mail-Adresse].
+For licensing inquiries, please contact 2dogsandanerd@gmail.com
