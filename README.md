@@ -264,7 +264,7 @@ Demo systems crash in production. This was built for Day 2 operations.
 - **Frontend:** React + TypeScript, TailwindCSS
 
 ---
-
+Mermaid endet NUR hier:
 ## 📊 Real-World Performance
 
 **Benchmarks (Consumer Hardware - NVIDIA RTX 3060):**
@@ -316,6 +316,7 @@ Demo systems crash in production. This was built for Day 2 operations.
 
 
 ```mermaid
+
 graph TD
     DOC[Input Document] --> ROUTER{Complexity Router}
     ROUTER -->|Simple| LANE_A[Lane A: PyMuPDF (Fast)]
@@ -332,6 +333,7 @@ graph TD
     VEC --> AGENT[Agent Service]
     GRAPH --> AGENT
 
+'''
 
 
 ## ⚙️ Environment Configuration
