@@ -316,25 +316,25 @@ Demo systems crash in production. This was built for Day 2 operations.
 
 ---
 
+
 ```mermaid
 graph TD
     DOC[Input Document] --> ROUTER{Complexity Router}
     ROUTER -->|Simple| LANE_A[Lane A: PyMuPDF (Fast)]
     ROUTER -->|Complex| LANE_B[Lane B: Docling (Structure)]
     ROUTER -->|Visual| LANE_C[Lane C: Vision/VLM (Context)]
-    
-    LANE_A --> SOLOMON(Solomon Consensus Engine)
+
+    LANE_A --> SOLOMON[Solomon Consensus Engine]
     LANE_B --> SOLOMON
     LANE_C --> SOLOMON
-    
+
     SOLOMON -->|Text & Chunks| VEC[Vector DB (Chroma)]
     SOLOMON -->|Entities & Rels| GRAPH[Knowledge Graph (Neo4j)]
-    
+
     VEC --> AGENT[Agent Service]
     GRAPH --> AGENT
 
 
----
 ## ⚙️ Environment Configuration
 
 See `.env.example` for all configuration options.
