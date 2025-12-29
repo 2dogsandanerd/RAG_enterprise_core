@@ -314,8 +314,6 @@ Demo systems crash in production. This was built for Day 2 operations.
 - 16GB RAM minimum (32GB recommended)
 - Ollama running locally (or LLM API key)
 
----
-
 
 ```mermaid
 graph TD
@@ -333,6 +331,7 @@ graph TD
 
     VEC --> AGENT[Agent Service]
     GRAPH --> AGENT
+
 
 
 ## ⚙️ Environment Configuration
