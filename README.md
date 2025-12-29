@@ -333,7 +333,7 @@ graph TD
     VEC --> AGENT[Agent Service]
     GRAPH --> AGENT
 
-'''
+```
 
 
 ## ⚙️ Environment Configuration
@@ -385,7 +385,8 @@ See `.env.example` for all configuration options.
 
 ### Built Under Constraints, Designed for Production
 
-This system was developed by a solo engineer over two years in a camper with limited hardware (consumer GPU, laptop).  
+This system was developed by a solo engineer over two years in a camper with limited hardware 
+
 Every architectural decision prioritizes:
 
 - **Resource Efficiency** – Local LLM inference (Ollama), no mandatory cloud API dependency  
@@ -412,12 +413,11 @@ If your RAG system can’t handle these, it is not enterprise-ready.
 
 - **License**: Proprietary (Private Repository)  
 - **Author**: Solo Developer (Germany)  
-- **Demo Context**: NGO Presentation & Hacker News Launch  
-- **Status**: Seeking partnerships / funding  
+- **Status**: Seeking partnerships / funding  / liecening
 
 ### Built With
 
-☕ Coffee, 😓 Sweat, 😢 Tears — now gradually replaced with 😊 Hope
+☕ Coffee, 😓 Sweat, 😢 Tears — now gradually replaced with 😊 Happiniess
 
 ---
 
