@@ -1,4 +1,4 @@
-# RAG Enterprise Core V3.0: Multi-Lane Consensus Engine ("The Crew")
+# RAG Enterprise Core V3.1: Multi-Lane Consensus Engine ("The Crew")
 
 > **Solving "The PDF Problem" via Hybrid Graph/Vector Retrieval and Deterministic Consensus.**
 
