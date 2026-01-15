@@ -343,7 +343,7 @@ Most RAG demos are "happy path" systems that break on real documents. This was b
 
 **If your RAG system can't handle the worst documents, it's not enterprise-ready.**
 
-This is **Skin in the Game Engineering**—not a funded startup burning capital on unproven tech. Every line of code was tested in production-like conditions.
+
 
 ---
 
@@ -404,14 +404,13 @@ Parallel processing visualization showing how multiple AI agents vote on data ex
 - Research institutions managing large document corpora
 
 **Pilot Program:**
-- 4-week paid pilot with your real documents
+- 4-week pilot with your real documents
 - Custom lane configuration for your domain
 - Performance benchmarking against your current solution
 - ROI analysis (time saved, accuracy improvement, cost reduction)
 
 **What You Get:**
 - Production-ready system with full observability
-- Source code access (licensing terms negotiable)
 - Technical support during integration
 - Custom lane development for specialized document types
 
@@ -422,8 +421,7 @@ Parallel processing visualization showing how multiple AI agents vote on data ex
 **License:** Proprietary (Private Repository)
 **Author:** Solo Developer (Germany)
 **Status:** Production Ready, Seeking Partnerships
-**Contact:** [Via LinkedIn or Email - Contact Details Provided Separately]
-
+**Contact:** 2dogsandanerd@gmail.com
 **Built With:**
 ☕ Coffee, 🧠 Engineering Discipline, 🎯 Skin in the Game
 
