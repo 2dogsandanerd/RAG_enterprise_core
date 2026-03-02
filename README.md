@@ -12,10 +12,10 @@ Disclamer, I did set the repo private for a short period ......little did me kno
 
 This technical overview is organized into functional modules:
 
-1. **[Document Processing](manifest_tech_pipeline_v4.0.md)** – Intelligent extraction and validation pipeline
-2. **[Knowledge Management](manifest_tech_knowledge_v4.0.md)** – Hybrid retrieval and query orchestration
-3. **[Quality Assurance](manifest_tech_quality_v4.0.md)** – Observability and continuous improvement
-4. **[Infrastructure](manifest_tech_infrastructure_v4.0.md)** – Deployment architecture and operations
+1. **[Document Processing](manifest_tech_pipeline_v4.0_en.md)** – Intelligent extraction and validation pipeline
+2. **[Knowledge Management](manifest_tech_knowledge_v4.0_en.md)** – Hybrid retrieval and query orchestration
+3. **[Quality Assurance](manifest_tech_quality_v4.0_en.md)** – Observability and continuous improvement
+4. **[Infrastructure](manifest_tech_infrastructure_v4.0_en.md)** – Deployment architecture and operations
 
 ---
 
