@@ -1,7 +1,7 @@
 # Pipeline – Technisches Manifest V4.0 (Public Edition)
 
 > **Modul:** Dokumentverarbeitung
-> **Parent:** [Technisches Manifest](manifest_tech_v4.0.md)
+> **Parent:** [Technical Overview](README.md)
 
 ---
 
